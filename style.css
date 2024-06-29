@@ -54,6 +54,12 @@ ul li a:hover {
     color: #007BFF;
 }
 
+.project-description {
+    font-size: 0.9em;
+    color: #555;
+    margin-top: 0.5em;
+}
+
 footer {
     text-align: center;
     padding: 1em 0;
